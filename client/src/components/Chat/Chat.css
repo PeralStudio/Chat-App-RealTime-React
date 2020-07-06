@@ -13,6 +13,7 @@
     border-radius: 8px;
     height: 60%;
     width: 35%;
+    background-image: url("https://as01.epimg.net/meristation/imagenes/2019/11/11/betech/1573497171_487815_1573497337_sumario_normal.jpg");
   }
   
   @media (min-width: 320px) and (max-width: 480px) {
