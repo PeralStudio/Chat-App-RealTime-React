@@ -22,6 +22,12 @@
     justify-content: flex-end;
     margin-right: 5%;
   }
+
+  .close:hover {
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+  }
   
   .onlineIcon {
     margin-right: 5%;
