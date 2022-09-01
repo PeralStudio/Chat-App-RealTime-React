@@ -16,6 +16,7 @@
   }
   
   .sendButton {
+    cursor: pointer;
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
